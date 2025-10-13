@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">👋 Ahmed Qamesh</h1>
 <h3 align="center">FPGA Firmware Developer | Researcher at KIT (IPE)</h3>
 
