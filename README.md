@@ -1,5 +1,5 @@
 <h1 align="center">👋 Ahmed Qamesh</h1>
-<h3 align="center">FPGA Firmware Developer | Researcher at KIT (IPE)</h3>
+<h3 align="center">FPGA Firmware Developer | Researcher at Karlsruhe Institute of Technology (IPE)</h3>
 
 <p align="center">
   <a href="https://github.com/ahmedqamesh"><img src="https://img.shields.io/badge/GitHub-@aqamesh-black?style=flat-square&logo=github"></a>
