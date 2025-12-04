@@ -10,9 +10,7 @@
 
 ## 🧭 About Me
 
-I am an **FPGA firmware engineer and researcher** specializing in **digital design, verification, and system integration** for high-energy physics applications.  
-My expertise spans the complete FPGA development cycle — from concept and architecture design to synthesis, simulation, and hardware validation.  
-
+I am an **FPGA firmware engineer and researcher** specializing in **digital design, verification, and system integration** for real life applications.  My expertise spans the complete FPGA development cycle — from concept and architecture design to synthesis, simulation, and hardware validation.  
 I am passionate about applying FPGA technology to solve complex problems in data acquisition, control systems, and real-time signal processing.
 
 ---
@@ -39,7 +37,12 @@ I am passionate about applying FPGA technology to solve complex problems in data
 - Collaborate with cross-disciplinary teams to deliver scalable, reliable FPGA solutions.  
 
 ---
-
+##  List of My Geek Tutorials
+### Data Analysis
+- **pattern_calls** : C++ project for beginners to handle information about pattern calls (visit [pattern_calls](https://github.com/ahmedqamesh/pattern_calls))
+- **farm_analysis** : Python scripts dedicated to conducting analysis and statistical calculations, such as p-values and correlation coefficients, on real data collected from a farm in 2021 (visit [farm_analysis](https://github.com/ahmedqamesh/farm_analysis)).
+- **drug_analysis** : python  script helps in understanding drug interactions by reading data from an Excel file and processing it to find interactions between specified drugs (visit [drug_analysis](https://github.com/ahmedqamesh/drug_analysis)). 
+### FPGA Development
 ---
 
 ## 🌍 Let’s Connect
